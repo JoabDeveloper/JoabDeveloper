@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Mucho gusto mi nombre es Joab Jazed Munevar Gonzalez</h1>
-<h3 align="center">Soy un software developer apasionado, en construit grandes cosas</h3>
+<h3 align="center">Soy un software developer apasionado, comprometido con la construcción de grandes soluciones.</h3>
 
 - 💬 Preguntame sobre **Html, Css, Javascript, Php, MySQL, Java, Angular**
 
 - 📫 Contactame! **munevargonzalezjoabjazed@gmail.com**
 
-<h3 align="left">Conectate conmigo:</h3>
+<h3 align="left">Conoceme:</h3>
 <h3 align="left">Me caracterizo por ser una persona autodidacta, con una gran capacidad para trabajar en equipo y de manera individual, además de una notable dedicación al aprendizaje. Actualmente, estoy ejerciendo mi carrera profesional como ingeniero de sistemas. Me apasiona el mundo de la programación y disfruto creando y mejorando nuevas soluciones tecnológicas. Soy obediente y responsable, siempre cumplo con las tareas asignadas de la mejor manera posible, buscando entregar un trabajo bien hecho.</h3>
 <p align="left">
 </p>
