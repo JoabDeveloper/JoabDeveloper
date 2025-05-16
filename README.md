@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Mucho gusto mi nombre es Joab Jazed Munevar Gonzalez</h1>
 <h3 align="center">Soy un software developer apasionado, comprometido con la construcción de grandes soluciones.</h3>
 
-- 💬 Preguntame sobre **Html, Css, Javascript, Php, MySQL, Java, Angular**
+- 💬 Preguntame sobre **Html, Css, Javascript, Php, MySQL, Java**
 
 - 📫 Contactame! **munevargonzalezjoabjazed@gmail.com**
 
